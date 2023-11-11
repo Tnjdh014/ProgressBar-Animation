@@ -15,3 +15,8 @@ In fact, The Atlantic even published an article explaining Why Some Apps Use Fak
 - Use **setInterval** and **clearInterval** to start and end an animation
 
 - Use objects to create a personalized experience for users via form data
+
+
+
+Here is a demo link, hosted on replit.com
+[https://replit.com/@TanjeedHasan/Progress-bar-Modal#style.css](https://replit.com/@TanjeedHasan/Progress-bar-Modal#style.css)
