@@ -12,4 +12,5 @@ Fake progress bars are relatively common in web development because they make we
  this project shows you how to:
 
 Use **setInterval** and **clearInterval** to start and end an animation
+
 Use objects to create a personalized experience for users via form data
