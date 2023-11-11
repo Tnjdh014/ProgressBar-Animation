@@ -6,7 +6,8 @@ Fake progress bars are relatively common in web development because they make we
 ![image](https://github.com/Tnjdh014/ProgressBar-Animation/assets/125633220/731c0114-9549-4081-b8f0-5d3c7f85bd0e)
 
 
-In fact, The Atlantic even published an article explaining [Why Some Apps Use Fake Progress Bars.]([url](https://www.theatlantic.com/technology/archive/2017/02/why-some-apps-use-fake-progress-bars/517233/)https://www.theatlantic.com/technology/archive/2017/02/why-some-apps-use-fake-progress-bars/517233/) It's a great read if you have a few extra minutes!
+In fact, The Atlantic even published an article explaining Why Some Apps Use Fake Progress Bars. It's a great read if you have a few extra minutes!
+- [https://www.theatlantic.com/technology/archive/2017/02/why-some-apps-use-fake-progress-bars/517233/](https://www.theatlantic.com/technology/archive/2017/02/why-some-apps-use-fake-progress-bars/517233/)
 
 🧠 Learning Objectives
  this project shows you how to:
